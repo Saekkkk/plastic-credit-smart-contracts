@@ -1,0 +1,11 @@
+Algorithm 1: Token Minting Smart Contract
+Input: Validator address, plastic credit report (ID, plastic amount), token maker address
+Output: Authorized plastic credit tokens minted and distributed
+Modifiers: onlyTokenMaker, onlyValidator
+Receive authorized plastic credit report (ID) and plastic amount (plasticAmount). (Validated by Validator)
+Function: Mint Token
+If reportId is authorized then
+	Mint tokens (plasticAmount) and update recipient balance.
+Function: Distribute Tokens
+	Transfer amount tokens and emit TokensDistributed(sender, recipient, amount)
+ End
