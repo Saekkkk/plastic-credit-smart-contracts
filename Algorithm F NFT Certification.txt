@@ -1,0 +1,17 @@
+Algorithm 2: NFT Minting Smart Contract 
+ 	Input: Token maker address, plastic credit report (ID, plastic amount), plastic credit consumer address 
+ 	Output: Plastic credit tokens burned, NFTs minted, and certificates distributed 
+ 	Modifiers: onlyTokenMaker, onlyValidator
+1 	Function: Validate and authorize reports  
+2 	If the consumer provides valid agreement then 
+3 	 	Mark the token as "Ready for Retirement" (RetirementAuthorized) 
+4 	Function: Burn tokens (TokenBurned). 
+5 	If the token is marked "Ready for Retirement" and balance is sufficient then 
+6 	 	Burn the token and update the total token supply 
+7 	Function: Mint Certification (NFT) 
+8 	If the associated token has been burned then 
+9 	 	Mint an NFT with certification metadata. 
+10 	Function: Distribute Certification (NFT) 
+11 	If the NFT exists and is valid then 
+12 	 	Transfer the NFT to the plastic credit consumer. 
+  End 
