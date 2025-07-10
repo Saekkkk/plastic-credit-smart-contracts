@@ -29,4 +29,5 @@ Said Fikri Naufal Ramdhani. (2024). Smart Contract Logic for Blockchain-Based Pl
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## 🌐 Link to Paper
+"How Can a Plastic Credit System Improve Traceability and Verifiability in Plastic Waste Management?" (submitted to Waste Management, Elsevier, 2024)
 For detailed methodology and evaluation results, see the published article (pending acceptance in Waste Management).
