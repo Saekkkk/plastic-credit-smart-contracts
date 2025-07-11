@@ -18,7 +18,7 @@ This project demonstrates how blockchain technology (ERC-20 and ERC-721 standard
 
 ## 📖 Citation
 If you use this repository, please cite:
-Said Fikri Naufal Ramdhani. (2024). Smart Contract Logic for Blockchain-Based Plastic Credit System [dataset]. GitHub. https://github.com/Saekkkk/plastic-credit-smart-contracts
+Said Fikri Naufal Ramdhani. (2025). plastic-credit-smart-contracts [Source code]. GitHub. https://github.com/Saekkkk/plastic-credit-smart-contracts
 
 ## 📜 License
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
