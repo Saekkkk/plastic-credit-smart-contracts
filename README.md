@@ -6,7 +6,6 @@ Smart contracts for blockchain-based plastic credit system (ERC-20 &amp; ERC-721
 This repository contains the smart contract implementations
 
 **"How Can a Plastic Credit System Improve Traceability and Verifiability in Plastic Waste Management?"**  
-*(Submitted to Waste Management, Elsevier, 2024)*
 
 ## 📦 Contents
 - **TokenMintingContract.sol**  
@@ -25,4 +24,4 @@ Said Fikri Naufal Ramdhani. (2024). Smart Contract Logic for Blockchain-Based Pl
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## 🌐 Link to Paper
-For detailed methodology and evaluation results, see the published article (pending acceptance in Waste Management).
+For detailed methodology and evaluation results, see the published article.
